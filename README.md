@@ -1,10 +1,11 @@
 # puppeteer_proxysupport
 
-mass enter a form human-like 
+mass enter a form human-like
+# 
 support ipv4 http proxies.
 
-#install
+# install
 npm install
 
-#run
+# run
 npm start
